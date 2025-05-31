@@ -65,14 +65,6 @@
 
 ---
 
-## Required Submissions
-
-- `solution.csv` - Predictions and uncertainty for 50 wells.
-- Python Workflow (`Hackathon_Workflow.ipynb`) - Code and explanations.
-- Presentation (`xxxx.pptx`) - Following the provided template.
-
----
-
 ## How to Run the Code
 
 1. Clone the repository:
